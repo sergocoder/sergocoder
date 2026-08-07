@@ -1,7 +1,7 @@
 # @!sergo
 **`he/she` · `codeerr` · `15 y.o`**
 
-<img width="300px" src="i (1).webp"></img>
+<img width="300px" src="funny.png"></img>
 ---
 
 ### 🛠️ Tech Stack
