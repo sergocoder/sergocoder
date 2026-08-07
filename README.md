@@ -1,6 +1,7 @@
 # @!sergo
 **`he/she` · `codeerr` · `15 y.o`**
 
+<img width="300px" src="i (1).webp"></img>
 ---
 
 ### 🛠️ Tech Stack
@@ -21,5 +22,3 @@
 - Could be coding, sleeping, or doing nothing. We'll never know.
 - UTC+03:00 - Moscow
 - meow
-
-<img width="300px" src="i (1).webp"></img>
