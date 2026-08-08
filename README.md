@@ -26,6 +26,7 @@ Mods:
 - DayShift At Funk
 
 ### 💬 A bit about me
-- Could be coding, sleeping, or doing nothing. We'll never know.
+- Could be coding, sleeping, or doing nothing
+- I have 5 YEARS exp. in coding
 - UTC+03:00 - Moscow
 - meow
