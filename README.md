@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 </p>
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=sergocoder&layout=compact&langs_count=2&disable_animations=true&theme=dark)
 ---
 
 ### ⚡ Currently working on
