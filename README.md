@@ -1,5 +1,5 @@
 # @!sergo
-**`he/she` · `programmer/coder` · `15 y.o`**
+**`he/him` · `programmer/coder` · `15 y.o`**
 
 <img width="300px" src="funny.png"></img>
 ---
