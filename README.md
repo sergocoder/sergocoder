@@ -23,7 +23,6 @@ Mods:
 - Funkoriki
 - Utopia
 - District 28
-- DayShift At Funk
 
 ### 💬 A bit about me
 - Could be coding, sleeping, or doing nothing
