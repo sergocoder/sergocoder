@@ -23,6 +23,7 @@ Mods:
 - Funkoriki
 - Utopia
 - District 28
+- NEO: Explosion
 
 ### 💬 A bit about me
 - Could be coding, sleeping, or doing nothing
