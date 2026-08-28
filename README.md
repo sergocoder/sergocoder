@@ -27,3 +27,5 @@ Mods:
 - I have 5 YEARS exp. in coding
 - UTC+03:00 - Moscow
 - meow
+
+### (FURRY OC NOT MY MINE. BY: PINKPUFFINZ)
