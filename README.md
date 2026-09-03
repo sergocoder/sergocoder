@@ -1,4 +1,4 @@
-# @!sergo
+# @!𝘀e𝗿𝗴o
 **`he/him` · `programmer/coder` · `15 y.o`**
 
 <img width="300px" src="funny.png"></img>
