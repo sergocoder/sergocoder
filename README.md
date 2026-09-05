@@ -28,4 +28,4 @@ Mods:
 - UTC+03:00 - Moscow
 - meow
 
-### (FURRY OC NOT MY MINE. BY: PINKPUFFINZ)
+### (FURRY OC NOT MY MINE. BY: PINKPOFFINZ)
