@@ -12,15 +12,16 @@
 
 ### ⚡ Currently working on
 Projects:
-- Local Engine
-- Pulse Engine (MY FNF Engine written in fully C++)
+- `Local Engine` (FNF Engine)
+- `Pulse Engine` (MY FNF Engine written in fully C++)
+- `Pulse` (Audio Player)
 
 Mods:
 
-- Funkoriki
-- Utopia
-- District 28
-- NEO: Explosion
+- `Funkoriki`
+- `Utopia`
+- `District 28`
+- `NEO: Explosion`
 
 ### 💬 A bit about me
 - Could be coding, sleeping, or doing nothing
