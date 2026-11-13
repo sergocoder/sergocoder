@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,c,cpp,cs,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,c,cpp,cs,rust,python&theme=dark)](https://skillicons.dev)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=sergocoder&layout=compact&langs_count=2&disable_animations=true&theme=dark)
 ---
