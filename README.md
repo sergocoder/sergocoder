@@ -23,6 +23,7 @@ Mods:
 - `District 28`
 - `NEO: Explosion`
 - `DiasSir Mixes`
+- `FNF: HUDOSHKA`
 
 ### 💬 A bit about me
 - could be coding sleeping or doing nothing hhf
