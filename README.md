@@ -11,10 +11,6 @@
 ---
 
 ### ⚡ Currently working on
-Projects:
-- `Local Engine` (FNF Engine)
-- `Pulse Engine` (MY FNF Engine written in fully C++)
-- `Pulse` (Audio Player)
 
 Mods:
 
@@ -26,6 +22,7 @@ Mods:
 - `FNF: HUDOSHKA`
 
 ### 💬 A bit about me
+- i'll make fnf and not fnf stuff
 - could be coding sleeping or doing nothing hhf
 - I have 5 YEARS exp. in coding
 - UTC+03:00 - Moscow
